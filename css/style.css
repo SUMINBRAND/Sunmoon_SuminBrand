@@ -7591,7 +7591,7 @@ h1, h2, h3, h4, h5,
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: #fff;
+          color: rgb(0, 0, 0);
           text-transform: uppercase;
           line-height: 1.2; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
